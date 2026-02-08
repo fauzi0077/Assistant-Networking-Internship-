@@ -32,8 +32,6 @@ The internship focused on supporting daily IT operations, assisting senior engin
 - Installed and configured **LAN cards**  
 - Supported access point configuration and setup
 
-<img width="651" height="342" alt="image" src="https://github.com/user-attachments/assets/260e7408-9e9d-4762-baf3-a74d8878867b" />
-
 ### Network Switch Configuration
 
 This image shows the **configuration of a network switch using the Command Line Interface (CLI)**.  
@@ -67,7 +65,7 @@ This setup is commonly used to deploy pfSense as a **network firewall and router
 
 ---
 
-<img width="576" height="540" alt="image" src="https://github.com/user-attachments/assets/b5f50c68-afcb-48d9-a72e-9c96b5bc787c" />
+![WhatsApp Image 2026-02-08 at 11 58 12 PM](https://github.com/user-attachments/assets/4b254ee7-e21d-4e7c-86b1-1552dac50fbb)
 
 ### Default Keymap Configuration (pfSense)
 
@@ -84,7 +82,7 @@ Using the default keymap is recommended during initial setup to avoid input comp
 
 ---
 
-<img width="738" height="383" alt="image" src="https://github.com/user-attachments/assets/1b07eca3-c8dc-4c90-8ff1-4b733a90e151" />
+![WhatsApp Image 2026-02-08 at 11 56 41 PM](https://github.com/user-attachments/assets/9022c157-3cc7-4563-8d73-e3bbacfd52a0)
 
 ### pfSense Web Interface (Dashboard)
 
